@@ -10,4 +10,14 @@ entries:
     urls:
     - https://github.com/SomeBlackMagic/cert-manager-dns-lexicon-webhook/releases/download/cert-manager-dns-lexicon-webhook-1.0.0/cert-manager-dns-lexicon-webhook-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-07T11:31:41.757512566Z"
+  cert-manager-webhook-dns-lexicon:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-05-16T07:03:33.151262841Z"
+    description: dns-lexicon cert-manager webhook ACME DNS-01 solver
+    digest: d21b064240455a6fa95d017f10b387d3cd55126170ae5e5d2e97cc4dd4edf0b5
+    name: cert-manager-webhook-dns-lexicon
+    urls:
+    - https://github.com/SomeBlackMagic/cert-manager-webhook-dns-lexicon/releases/download/cert-manager-webhook-dns-lexicon-1.0.1/cert-manager-webhook-dns-lexicon-1.0.1.tgz
+    version: 1.0.1
+generated: "2025-05-16T07:03:33.1512676Z"
